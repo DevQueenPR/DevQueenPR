@@ -11,7 +11,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DevQueenPR&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevQueenPR&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=YOUR_REPO_URL&title=Visitors)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevQueenPR&title=Visitors)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
