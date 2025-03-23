@@ -8,7 +8,13 @@ I'm **DevQueen**, also known as **Génesis M. Ojeda**! 🌟
 
 ---
 
-## 🌐 Let's Connect
+
+## 🌐 Visit my website!
+[![Website](https://www.ojedatech.com/genesis) 
+
+---
+
+## 🚀 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/génesis-ojeda-451576302/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:genesisojeda@ojedatech.com)
 
