@@ -8,9 +8,8 @@ I'm **DevQueen**, also known as **Génesis M. Ojeda**! 🌟
 
 ---
 
-
-## 🌐 Visit my website!
-[![Website](https://www.ojedatech.com/genesis) 
+## 🌐 Visit My Website!
+[![Website](https://img.shields.io/badge/Website-ojedatech.com-%23000000?style=flat&logo=internet-explorer&logoColor=white)](https://www.ojedatech.com/genesis)
 
 ---
 
