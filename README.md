@@ -29,9 +29,7 @@ I'm **DevQueen**, also known as **Génesis M. Ojeda**! 🌟
 ![](https://nirzak-streak-stats.vercel.app/?user=DevQueenPR&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevQueenPR&theme=aura&hide_border=false&layout=compact)
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevQueenPR&title=Visitors)
 
----
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
